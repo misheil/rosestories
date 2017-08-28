@@ -1,4 +1,4 @@
-# CodeIgniter 2 -- with me
+# CodeIgniter 2 -- Mishel Branch
 Open Source PHP Framework (originally from EllisLab)
 
 For more info, please refer to the user-guide at http://www.codeigniter.com/userguide2/  
